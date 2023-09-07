@@ -7,7 +7,7 @@
     "email": "manu@paca.happy-dev.fr",
     "phone": "",
     "url": "https://ubermanu.github.io/",
-    "summary": "Passionné du web, à la recherche de missions PHP et JS.\nHabitué de TYPO3 et Magento 2.",
+    "summary": "Passionné du web, à la recherche de missions PHP et JS.\nFull stack.\nHabitué de Magento 2.\nAmoureux de Svelte.",
     "location": {
       "countryCode": "FR",
       "address": ""
@@ -118,72 +118,52 @@
   "skills": [
     {
       "name": "PHP",
-      "level": "",
+      "level": "Advanced",
       "keywords": []
     },
     {
       "name": "HTML",
-      "level": "",
+      "level": "Advanced",
       "keywords": ["HTML5"]
     },
     {
       "name": "CSS",
-      "level": "",
+      "level": "Advanced",
       "keywords": ["CSS3", "SASS", "LESS", "PostCSS"]
     },
     {
       "name": "JS",
-      "level": "",
+      "level": "Advanced",
       "keywords": ["ES6", "Typescript"]
     },
     {
       "name": "Magento 2",
-      "level": "",
+      "level": "Advanced",
       "keywords": []
     },
     {
       "name": "Linux",
-      "level": "",
+      "level": "Advanced",
       "keywords": ["Ubuntu", "Debian", "Archlinux"]
     },
     {
       "name": "Accessibilité",
-      "level": "",
+      "level": "Intermediate",
       "keywords": ["RGAA"]
     },
     {
       "name": "Svelte",
-      "level": "",
+      "level": "Intermediate",
       "keywords": ["SvelteKit"]
     },
     {
-      "name": "MySQL",
-      "level": "",
-      "keywords": ["MariaDB"]
-    },
-    {
       "name": "Git",
-      "level": "",
+      "level": "Advanced",
       "keywords": ["CI", "Github", "Bitbucket", "Gitflow"]
     },
     {
       "name": "Node",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "TYPO3",
-      "level": "",
-      "keywords": ["4.5", "6.2", "7.6", "8.7"]
-    },
-    {
-      "name": "Laravel",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "React",
-      "level": "",
+      "level": "Advanced",
       "keywords": []
     }
   ],
@@ -229,6 +209,7 @@
         "Mise en production du site, gestion des incidents et des mises à jour"
       ],
       "startDate": "2021-05",
+      "endDate": "2022-12",
       "entity": "Freelance",
       "keywords": [
         "Magento",
