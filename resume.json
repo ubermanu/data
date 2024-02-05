@@ -181,6 +181,21 @@
   "references": [],
   "projects": [
     {
+      "name": "Passion Beauté",
+        "description": "Refonte du site e-commerce de Passion Beauté",
+        "roles": ["Front-end Developer", "Backend Developer"],
+        "highlights": [
+          "Intégration des maquettes depuis Figma",
+          "Développement de modules spécifiques",
+          "Création de types de contenu spécifique Page Builder"
+        ],
+        "startDate": "2023-09",
+        "endDate": "2024-02",
+        "entity": "Zento, Freelance",
+        "keywords": ["Magento", "Page Builder"],
+        "url": "https://www.passionbeaute.fr"
+    },
+    {
       "name": "Office du Tourisme et des congrès de Paris",
       "description": "Développement de la plateforme e-commerce de l'OTCP",
       "roles": ["Front-end Developer"],
