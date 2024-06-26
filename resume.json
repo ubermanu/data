@@ -124,17 +124,29 @@
     {
       "name": "HTML",
       "level": "Advanced",
-      "keywords": ["HTML5"]
+      "keywords": [
+        "HTML5"
+      ]
     },
     {
       "name": "CSS",
       "level": "Advanced",
-      "keywords": ["CSS3", "SASS", "LESS", "PostCSS"]
+      "keywords": [
+        "CSS3",
+        "SASS",
+        "LESS",
+        "PostCSS"
+      ]
     },
     {
       "name": "JS",
       "level": "Advanced",
-      "keywords": ["ES6", "Typescript"]
+      "keywords": [
+        "ES6",
+        "Typescript",
+        "Node",
+        "Bun"
+      ]
     },
     {
       "name": "Magento 2",
@@ -142,29 +154,45 @@
       "keywords": []
     },
     {
+      "name": "SQL",
+      "level": "Advanced",
+      "keywords": [
+        "MySQL",
+        "MariaDB"
+      ]
+    },
+    {
       "name": "Linux",
       "level": "Advanced",
-      "keywords": ["Ubuntu", "Debian", "Archlinux"]
+      "keywords": [
+        "Ubuntu",
+        "Debian",
+        "Archlinux"
+      ]
     },
     {
       "name": "Accessibilité",
       "level": "Intermediate",
-      "keywords": ["RGAA"]
+      "keywords": [
+        "RGAA"
+      ]
     },
     {
       "name": "Svelte",
       "level": "Intermediate",
-      "keywords": ["SvelteKit"]
+      "keywords": [
+        "SvelteKit"
+      ]
     },
     {
       "name": "Git",
       "level": "Advanced",
-      "keywords": ["CI", "Github", "Bitbucket", "Gitflow"]
-    },
-    {
-      "name": "Node",
-      "level": "Advanced",
-      "keywords": []
+      "keywords": [
+        "CI",
+        "Github",
+        "Bitbucket",
+        "Gitflow"
+      ]
     }
   ],
   "languages": [
@@ -181,24 +209,53 @@
   "references": [],
   "projects": [
     {
+      "name": "Wolfberger",
+      "description": "Refonte du site e-commerce de Wolfberger",
+      "roles": [
+        "Front-end Developer",
+        "Backend Developer"
+      ],
+      "highlights": [
+        "Intégration des maquettes depuis Figma",
+        "Création de types de contenu spécifique Page Builder"
+      ],
+      "startDate": "2024-02",
+      "endDate": "2024-05",
+      "entity": "Zento, Freelance",
+      "keywords": [
+        "Magento",
+        "Swiper",
+        "Page Builder"
+      ],
+      "url": "https://www.wolfberger.com"
+    },
+    {
       "name": "Passion Beauté",
-        "description": "Refonte du site e-commerce de Passion Beauté",
-        "roles": ["Front-end Developer", "Backend Developer"],
-        "highlights": [
-          "Intégration des maquettes depuis Figma",
-          "Développement de modules spécifiques",
-          "Création de types de contenu spécifique Page Builder"
-        ],
-        "startDate": "2023-09",
-        "endDate": "2024-02",
-        "entity": "Zento, Freelance",
-        "keywords": ["Magento", "Page Builder"],
-        "url": "https://www.passionbeaute.fr"
+      "description": "Refonte du site e-commerce de Passion Beauté",
+      "roles": [
+        "Front-end Developer",
+        "Backend Developer"
+      ],
+      "highlights": [
+        "Intégration des maquettes depuis Figma",
+        "Développement de modules spécifiques",
+        "Création de types de contenu spécifique Page Builder"
+      ],
+      "startDate": "2023-09",
+      "endDate": "2024-04",
+      "entity": "Zento, Freelance",
+      "keywords": [
+        "Magento",
+        "Page Builder"
+      ],
+      "url": "https://www.passionbeaute.fr"
     },
     {
       "name": "Office du Tourisme et des congrès de Paris",
       "description": "Développement de la plateforme e-commerce de l'OTCP",
-      "roles": ["Front-end Developer"],
+      "roles": [
+        "Front-end Developer"
+      ],
       "highlights": [
         "Integration des maquettes fournies par HulaHoop sur Magento 2",
         "Assurer la conformité des développements avec les standards de l'accessibilité RGAA",
@@ -208,13 +265,19 @@
       "startDate": "2022-07",
       "endDate": "2023-02",
       "entity": "Atos, Freelance",
-      "keywords": ["Magento", "LitElement", "Web Components"],
+      "keywords": [
+        "Magento",
+        "LitElement",
+        "Web Components"
+      ],
       "url": "https://parisjetaime.com/"
     },
     {
       "name": "Les Paniers Davoine",
       "description": "Refonte d'un site e-commerce pour la vente de paniers garnis",
-      "roles": ["Backend Developer"],
+      "roles": [
+        "Backend Developer"
+      ],
       "highlights": [
         "Migration du site de Magento 1 vers Magento 2",
         "Module d'abonnement hebdomadaire pour les clients avec Payline",
@@ -241,7 +304,9 @@
     {
       "name": "HUBL",
       "description": "TMA pour le chat décentralisé d'HappyDev",
-      "roles": ["Front-end Developer"],
+      "roles": [
+        "Front-end Developer"
+      ],
       "highlights": [
         "Correction de bugs et amélioration de l'interface",
         "Envoi de correctifs de performances sur Converse.js",
@@ -250,13 +315,20 @@
       "startDate": "2021-01",
       "endDate": "2021-07",
       "entity": "Freelance",
-      "keywords": ["converse.js", "XMPP", "Prosody", "Django"],
+      "keywords": [
+        "converse.js",
+        "XMPP",
+        "Prosody",
+        "Django"
+      ],
       "url": "https://hubl.world"
     },
     {
       "name": "PiscineCenter",
       "description": "Audit de sécurité, optimisation et accompagnement technique suite à la migration du projet vers une version de PHP plus récente",
-      "roles": ["PHP Consultant"],
+      "roles": [
+        "PHP Consultant"
+      ],
       "highlights": [
         "Optimisation des requêtes SQL",
         "Refonte de l'architecture du projet, sous composer",
@@ -266,13 +338,20 @@
       "startDate": "2020-10-23",
       "endDate": "2020-10-30",
       "entity": "Freelance",
-      "keywords": ["PHP", "MySQL", "Composer", "Performance"],
+      "keywords": [
+        "PHP",
+        "MySQL",
+        "Composer",
+        "Performance"
+      ],
       "url": "https://www.piscinecenter.com"
     },
     {
       "name": "CABESTO",
       "description": "Refonte graphique de la plateforme e-commerce de CABESTO",
-      "roles": ["Front-end Developer"],
+      "roles": [
+        "Front-end Developer"
+      ],
       "highlights": [
         "Intégration des maquettes fournies",
         "Application d'un design 100% responsive",
@@ -282,13 +361,20 @@
       "startDate": "2020-02-19",
       "endDate": "2021-03-31",
       "entity": "Freelance",
-      "keywords": ["Magento", "SASS", "Responsive Design", "Migration"],
+      "keywords": [
+        "Magento",
+        "SASS",
+        "Responsive Design",
+        "Migration"
+      ],
       "url": "https://www.cabesto.com"
     },
     {
       "name": "IGESA",
       "description": "TMA sur le site de l'IGESA",
-      "roles": ["Backend Developer"],
+      "roles": [
+        "Backend Developer"
+      ],
       "highlights": [
         "Correction de bugs mineurs",
         "Mise en place d'un système de paiement en ligne"
@@ -296,53 +382,74 @@
       "startDate": "2020-01",
       "endDate": "2020-03",
       "entity": "SCALA, Freelance",
-      "keywords": ["TYPO3"],
+      "keywords": [
+        "TYPO3"
+      ],
       "url": "https://www.igesa.fr"
     },
     {
       "name": "LaProvence",
       "description": "Maintenance de l'outil de gestion de livraison des journaux dans le 13",
-      "roles": ["Backend Developer"],
+      "roles": [
+        "Backend Developer"
+      ],
       "highlights": [],
       "startDate": "2019-11",
       "endDate": "2019-12",
       "entity": "SMILE",
-      "keywords": ["Laravel"],
+      "keywords": [
+        "Laravel"
+      ],
       "url": "https://www.laprovence.com"
     },
     {
       "name": "CABESTO",
-      "roles": ["Backend Developer"],
+      "roles": [
+        "Backend Developer"
+      ],
       "highlights": [],
       "startDate": "2019",
       "endDate": "2019",
       "entity": "SMILE",
-      "keywords": ["Magento"],
+      "keywords": [
+        "Magento"
+      ],
       "url": "https://www.cabesto.com"
     },
     {
       "name": "Ollygan",
-      "roles": ["Backend Developer", "Front-end Developer"],
+      "roles": [
+        "Backend Developer",
+        "Front-end Developer"
+      ],
       "highlights": [],
       "startDate": "2019",
       "endDate": "2019",
       "entity": "SMILE",
-      "keywords": ["Magento"],
+      "keywords": [
+        "Magento"
+      ],
       "url": "https://www.ollygan.com"
     },
     {
       "name": "Avatacar",
-      "roles": ["Backend Developer"],
+      "roles": [
+        "Backend Developer"
+      ],
       "highlights": [],
       "startDate": "2019",
       "endDate": "2019",
       "entity": "SMILE",
-      "keywords": ["Magento"],
+      "keywords": [
+        "Magento"
+      ],
       "url": "https://www.avatacar.com"
     },
     {
       "name": "Service Interacadémique des Examens et Concours",
-      "roles": ["Backend Developer"],
+      "roles": [
+        "Backend Developer"
+      ],
       "highlights": [
         "Définition des contraintes techniques liées au projet (multi-sites)",
         "Traduction du besoin client et organisation des équipes",
@@ -351,73 +458,101 @@
       "startDate": "2018",
       "endDate": "2018",
       "entity": "Stratis",
-      "keywords": ["TYPO3"],
+      "keywords": [
+        "TYPO3"
+      ],
       "url": "https://siec.education.fr"
     },
     {
       "name": "Nancy",
-      "roles": ["Backend Developer"],
+      "roles": [
+        "Backend Developer"
+      ],
       "highlights": [],
       "startDate": "2018",
       "endDate": "2018",
       "entity": "Stratis",
-      "keywords": ["TYPO3"],
+      "keywords": [
+        "TYPO3"
+      ],
       "url": "https://www.nancy.fr"
     },
     {
       "name": "Aggloroanne",
-      "roles": ["Backend Developer"],
+      "roles": [
+        "Backend Developer"
+      ],
       "highlights": [],
       "startDate": "2017",
       "endDate": "2017",
       "entity": "Stratis",
-      "keywords": ["TYPO3"],
+      "keywords": [
+        "TYPO3"
+      ],
       "url": "https://www.aggloroanne.fr"
     },
     {
       "name": "Brest",
-      "roles": ["Backend Developer"],
+      "roles": [
+        "Backend Developer"
+      ],
       "highlights": [],
       "startDate": "2017",
       "endDate": "2017",
       "entity": "Stratis",
-      "keywords": ["TYPO3"],
+      "keywords": [
+        "TYPO3"
+      ],
       "url": "https://www.brest.fr"
     },
     {
       "name": "Cergy",
-      "roles": ["Backend Developer"],
+      "roles": [
+        "Backend Developer"
+      ],
       "highlights": [],
       "startDate": "2017",
       "endDate": "2017",
       "entity": "Stratis",
-      "keywords": ["TYPO3"],
+      "keywords": [
+        "TYPO3"
+      ],
       "url": "https://www.cergy.fr"
     },
     {
       "name": "CG06",
-      "roles": ["Backend Developer"],
+      "roles": [
+        "Backend Developer"
+      ],
       "highlights": [],
       "startDate": "2016",
       "endDate": "2016",
       "entity": "Stratis",
-      "keywords": ["TYPO3"],
+      "keywords": [
+        "TYPO3"
+      ],
       "url": "https://www.departement06.fr"
     },
     {
       "name": "CHU de Rennes",
-      "roles": ["Backend Developer"],
+      "roles": [
+        "Backend Developer"
+      ],
       "highlights": [],
       "startDate": "2016",
       "endDate": "2016",
       "entity": "Stratis",
-      "keywords": ["TYPO3"],
+      "keywords": [
+        "TYPO3"
+      ],
       "url": "https://www.chu-rennes.fr"
     },
     {
       "name": "OptimHome Market",
       "description": "Création d'une plateforme e-commerce interne pour les agents immobiliers OptimHome",
-      "roles": ["Backend Developer"],
+      "roles": [
+        "Backend Developer"
+      ],
       "highlights": [
         "Création d'un site e-commerce sur Joomla avec Virtuemart",
         "Paiement en ligne par carte bancaire",
@@ -426,7 +561,10 @@
       "startDate": "2014-11-30",
       "endDate": "2015-05-31",
       "entity": "OptimHome",
-      "keywords": ["Joomla", "Virtuemart"]
+      "keywords": [
+        "Joomla",
+        "Virtuemart"
+      ]
     }
   ],
   "meta": {
