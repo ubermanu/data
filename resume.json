@@ -37,13 +37,15 @@
       "location": "18 Rue Lavoisier, 83210 La Farlède"
     },
     {
-      "name": "Happy Dev",
+      "name": "Freelance",
       "position": "Développeur Web Fullstack",
       "startDate": "2019-11-30",
       "endDate": "2024-12-31",
-      "highlights": [],
-      "summary": "En freelance et membre de l'association Happy Dev (PACA)",
-      "url": "https://happy-dev.fr/",
+      "highlights": [
+        "Membre de l'association Happy Dev (PACA)",
+        "Déployer des solutions e-commerce Magento 2",
+        "Support sur le développement de plateformes décentralisées (SOLID)"
+      ],
       "location": "France"
     },
     {
