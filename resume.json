@@ -134,13 +134,12 @@
     {
       "name": "HTML",
       "level": "Advanced",
-      "keywords": ["HTML5"]
+      "keywords": []
     },
     {
       "name": "CSS",
       "level": "Advanced",
       "keywords": [
-        "CSS3",
         "SASS",
         "Less",
         "PostCSS",
