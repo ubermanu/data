@@ -1,0 +1,196 @@
+{
+  "$schema": "https://ubermanu.github.io/json-schema/music-playlist.json",
+  "name": "EUROBEAT",
+  "tracks": [
+    {
+      "title": "Deja Vu",
+      "artist": "Dave Rodgers",
+      "album": "Super Eurobeat Presents Euromach 2",
+      "label": "A-Beat-C",
+      "duration": 260,
+      "releaseDate": "1999-11-10"
+    },
+    {
+      "title": "Rider of the Sky",
+      "artist": "Ace",
+      "album": "Super Eurobeat Vol. 162",
+      "label": "SCP Music",
+      "duration": 311,
+      "releaseDate": "2005-10-26"
+    },
+    {
+      "title": "Gas Gas Gas",
+      "artist": "Manuel",
+      "album": "Super Eurobeat Vol. 181",
+      "label": "GoGo's Music",
+      "duration": 492,
+      "releaseDate": "2007-09-26"
+    },
+    {
+      "title": "Running in The 90s",
+      "artist": "Max Coveri",
+      "album": "Super Eurobeat Vol. 85",
+      "label": "Delta Music Industry",
+      "duration": 333,
+      "releaseDate": "1998-02-25"
+    },
+    {
+      "title": "The Top",
+      "artist": "Ken Blast",
+      "album": "Super Eurobeat Vol. 217 - Extended Version",
+      "label": "Delta Music Industry",
+      "duration": 276,
+      "releaseDate": "2011-08-03"
+    },
+    {
+      "title": "Night Of Fire",
+      "artist": "NIKO",
+      "album": "Super Eurobeat Vol. 82",
+      "label": "Delta Music Industry",
+      "duration": 318,
+      "releaseDate": "1997-10-22"
+    },
+    {
+      "title": "Adrenaline",
+      "artist": "Ace",
+      "album": "Super Eurobeat Vol. 225 - Extended Version",
+      "label": "SCP Music",
+      "duration": 263,
+      "releaseDate": "2013-09-18"
+    },
+    {
+      "title": "Mikado",
+      "artist": "Dave McLoud",
+      "album": "Super Eurobeat Presents Euromach",
+      "label": "SCP Music",
+      "duration": 366,
+      "releaseDate": "1999-10-29"
+    },
+    {
+      "title": "Boom Boom Japan",
+      "artist": "Dave Rodgers",
+      "album": "Super Eurobeat Vol. 72",
+      "label": "A-Beat-C",
+      "duration": 324,
+      "releaseDate": "1996-10-23"
+    },
+    {
+      "title": "Mad Desire",
+      "artist": "Stephy Martini",
+      "album": "Super Eurobeat Vol. 172",
+      "label": "Delta Music Industry",
+      "duration": 397,
+      "releaseDate": "2006-10-24"
+    },
+    {
+      "title": "When The Sun Goes Down (Extended Mix)",
+      "artist": "Ken Blast",
+      "album": "Super Eurobeat Vol. 201 - Extended Version",
+      "label": "Delta Music Industry",
+      "duration": 295,
+      "releaseDate": "2010-03-03"
+    },
+    {
+      "title": "Chemical Love",
+      "artist": "Kevin & Cherry",
+      "album": "Super Eurobeat Vol. 167",
+      "label": "Delta Music Industry",
+      "duration": 346,
+      "releaseDate": "2006-04-19"
+    },
+    {
+      "title": "Ddd Initial D (My Car Is Fantasy)",
+      "artist": "Mega NRG Man",
+      "album": "Super Eurobeat Presents Mega NRG Man Special Collection Vol. 6",
+      "label": "A-Beat-C",
+      "duration": 279,
+      "releaseDate": "2008-11-26"
+    },
+    {
+      "title": "You're Gonna Be",
+      "artist": "Starlet",
+      "album": "Super Eurobeat Vol. 71",
+      "label": "Delta Music Industry",
+      "duration": 339,
+      "releaseDate": "1996-09-25"
+    },
+    {
+      "title": "Dance Around The World",
+      "artist": "Delta Queens",
+      "album": "Super Eurobeat Vol. 78",
+      "label": "Delta Music Industry",
+      "duration": 363,
+      "releaseDate": "1997-03-21"
+    },
+    {
+      "title": "Make Up Your Mind",
+      "artist": "Wain L.",
+      "album": "Super Eurobeat Vol. 44 - Extended Version",
+      "label": "A-Beat-C",
+      "duration": 356,
+      "releaseDate": "1994-04-21"
+    },
+    {
+      "title": "Black U.F.O",
+      "artist": "Lupin",
+      "album": "That's Eurobeat News 04",
+      "label": "Asia Records, Boom Boom Beat",
+      "duration": 303,
+      "releaseDate": "2005-11-15"
+    },
+    {
+      "title": "I Wanna Be The Night",
+      "artist": "Chris T.",
+      "album": "Super Eurobeat Vol. 145",
+      "label": "A-Beat-C",
+      "duration": 273,
+      "releaseDate": "2004-02-18"
+    },
+    {
+      "title": "Merci Twingo !",
+      "artist": "Anthony McBazooka",
+      "duration": 313,
+      "releaseDate": "2017-11-03"
+    },
+    {
+      "title": "Super Rider",
+      "artist": "Mark Astley",
+      "album": "Super Eurobeat Vol. 184",
+      "label": "Delta Music Industry",
+      "duration": 353,
+      "releaseDate": "2008-01-30"
+    },
+    {
+      "title": "Let It Burn",
+      "artist": "Go 2",
+      "album": "Super Eurobeat Vol. 168",
+      "label": "SCP Music",
+      "duration": 280,
+      "releaseDate": "2006-03-24"
+    },
+    {
+      "title": "The Race Is Over",
+      "artist": "Dave Rodgers",
+      "album": "Initial D The Movie Of Super Eurobeat",
+      "label": "A-Beat-C",
+      "duration": 312,
+      "releaseDate": "2001-01-17"
+    },
+    {
+      "title": "Lonely Night",
+      "artist": "Helena",
+      "album": "Super Eurobeat Vol. 65",
+      "label": "Time Records",
+      "duration": 305,
+      "releaseDate": "1996-03-21"
+    },
+    {
+      "title": "Sun In The Rain",
+      "artist": "Manuel",
+      "album": "Super Eurobeat Vol. 167",
+      "label": "A-Beat-C",
+      "duration": 307,
+      "releaseDate": "2006-04-19"
+    }
+  ]
+}
