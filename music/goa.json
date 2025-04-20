@@ -1,0 +1,399 @@
+{
+  "$schema": "https://ubermanu.github.io/json-schema/music-playlist.json",
+  "name": "GOA",
+  "tracks": [
+    {
+      "title": "People Can Fly",
+      "artist": "Astral Projection"
+    },
+    {
+      "title": "Discovery",
+      "artist": "Veasna"
+    },
+    {
+      "title": "California Sunshine, Har ElFlight Of The Navigator",
+      "artist": "Nostromosis"
+    },
+    {
+      "title": "Dance of the Cosmic Serpent",
+      "artist": "Cosmosis"
+    },
+    {
+      "title": "Eye Am The I",
+      "artist": "Chi-AD"
+    },
+    {
+      "title": "Vimana",
+      "artist": "Etnica"
+    },
+    {
+      "title": "Overload",
+      "artist": "MFG"
+    },
+    {
+      "title": "Age Of Love (Astral Projection Remix)",
+      "artist": "Astral Projection"
+    },
+    {
+      "title": "Spirit Implosion",
+      "artist": "M-Run"
+    },
+    {
+      "title": "Indra's Net",
+      "artist": "Shakta"
+    },
+    {
+      "title": "Abduction Phenomena",
+      "artist": "M-Run"
+    },
+    {
+      "title": "Lost in the Wild",
+      "artist": "Filteria"
+    },
+    {
+      "title": "The Oncoming Storm",
+      "artist": "Celestial Intelligence",
+      "label": "Suntrip Records"
+    },
+    {
+      "title": "Magnetic Activity (total Eclipse)",
+      "artist": "MFG"
+    },
+    {
+      "title": "Big Troubles In Outer Space (Oforia Remix)",
+      "artist": "Man With No Name"
+    },
+    {
+      "title": "Own The World",
+      "artist": "Man With No Name"
+    },
+    {
+      "title": "Alien Pump",
+      "artist": "Tandu"
+    },
+    {
+      "title": "Asterope",
+      "artist": "PLEIADIANS "
+    },
+    {
+      "title": "Granada (Remix 98)",
+      "artist": "Power Source"
+    },
+    {
+      "title": "Taiyo (Chakra Remix)",
+      "artist": "Tsuyoshi Suzuki, Nick Taylor"
+    },
+    {
+      "title": "Lushen Illusions",
+      "artist": "Event Horizon"
+    },
+    {
+      "title": "Freedom",
+      "artist": "Electric Universe"
+    },
+    {
+      "title": "Fata Morgana",
+      "artist": "Xerox, Freeman"
+    },
+    {
+      "title": "Moment of Truth",
+      "artist": "Man With No Name"
+    },
+    {
+      "title": "Shining Star (Daylight Mix)",
+      "artist": "California Sunshine, Har El"
+    },
+    {
+      "title": "Let There Be Light",
+      "artist": "Astral Projection"
+    },
+    {
+      "title": "Space Explorer",
+      "artist": "Goalien"
+    },
+    {
+      "title": "Dance Is The Answer",
+      "artist": "Astral Projection, Raja Ram"
+    },
+    {
+      "title": "Instant Sunrise (Feat Agneton)",
+      "artist": "Synthaya"
+    },
+    {
+      "title": "Back To Hyperion",
+      "artist": "Agneton"
+    },
+    {
+      "title": "Through The Past Trip - Original Mix",
+      "artist": "Funky Gong",
+      "label": "Matsuri Digital"
+    },
+    {
+      "title": "LSD (Astral Projection Rmx)",
+      "artist": "Hallucinogen"
+    },
+    {
+      "title": "Zap Kannon (2016 Re-Edit)",
+      "artist": "Agnetivax",
+      "label": "Sita Records"
+    },
+    {
+      "title": "Good Morning Israel",
+      "artist": "Eyal Barkan"
+    },
+    {
+      "title": "Wizards From The Future",
+      "artist": "Agneton"
+    },
+    {
+      "title": "Gods Of Melody",
+      "artist": "Rayavana"
+    },
+    {
+      "title": "Perception - OXI Rmx",
+      "artist": "Nova Fractal"
+    },
+    {
+      "title": "Lunar Cycle",
+      "artist": "Man With No Name"
+    },
+    {
+      "title": "Axis",
+      "artist": "Etnica"
+    },
+    {
+      "title": "Possessed",
+      "artist": "Man With No Name"
+    },
+    {
+      "title": "Children Of The Demon",
+      "artist": "Agneton, Magic Mizrahi"
+    },
+    {
+      "title": "Triptonite (pleiadians rmx)",
+      "artist": "Etnica"
+    },
+    {
+      "title": "The Prayer",
+      "artist": "Electric Universe"
+    },
+    {
+      "title": "Cosmic Creativity",
+      "artist": "Skizologic, Tsuyoshi Suzuki"
+    },
+    {
+      "title": "Quasar",
+      "artist": "Electric Universe"
+    },
+    {
+      "title": "Land Of Freedom",
+      "artist": "Transwave "
+    },
+    {
+      "title": "Skywalker (Filteria Remix)",
+      "artist": "Power Source"
+    },
+    {
+      "title": "Mahadeva",
+      "artist": "Astral Projection"
+    },
+    {
+      "title": "Do You Believe - Astral Projection Remix",
+      "artist": "X Dream"
+    },
+    {
+      "title": "Cycles of life",
+      "artist": "Transwave"
+    },
+    {
+      "title": "What Happens Next",
+      "artist": "Omnivox"
+    },
+    {
+      "title": "A New Hope",
+      "artist": "Agneton"
+    },
+    {
+      "title": "The hardest dream experience",
+      "artist": "Agneton, Goalien"
+    },
+    {
+      "title": "My Kind Of Nitzhonot",
+      "artist": "Genetix"
+    },
+    {
+      "title": "DeliriuM",
+      "artist": "Depresslogia"
+    },
+    {
+      "title": "Gigantoraptor Resurrection",
+      "artist": "Agneton"
+    },
+    {
+      "title": "1.Dark Knight",
+      "artist": "Invasion"
+    },
+    {
+      "title": "What Did That Make You Feel?",
+      "artist": "Oforia"
+    },
+    {
+      "title": "Star Cluster",
+      "artist": "Electric Universe"
+    },
+    {
+      "title": "Equilibrium",
+      "artist": "Shiva Shidapu"
+    },
+    {
+      "title": "Pluto",
+      "artist": "Proxeeus"
+    },
+    {
+      "title": "Reykjavik",
+      "artist": "Asia 2001"
+    },
+    {
+      "title": "Journey Through Acid",
+      "artist": "Afgin"
+    },
+    {
+      "title": "Club Mad 1996",
+      "artist": "Eddie Mis",
+      "label": "Acix Recordings"
+    },
+    {
+      "title": "The Tale Of Taketori",
+      "artist": "Ubar Tmar"
+    },
+    {
+      "title": "Psychoactive Landscape (Original Version)",
+      "artist": "Morphic Resonance"
+    },
+    {
+      "title": "20 Seconds",
+      "artist": "Athena",
+      "label": "Goa Trance Music",
+      "album": "Goa Trance Revolution 2 (Retrofuturism)",
+      "duration": 408,
+      "releaseDate": "2016-12-15"
+    },
+    {
+      "title": "Tyca Tyca",
+      "artist": "Proxeeus",
+      "label": "Goa Trance Music",
+      "album": "Goa Trance Revolution 2 (Retrofuturism)",
+      "duration": 608,
+      "releaseDate": "2016-12-15"
+    },
+    {
+      "title": "Circles",
+      "artist": "Clementz",
+      "label": "Goa Trance Music",
+      "album": "Goa Trance Revolution 2 (Retrofuturism)",
+      "duration": 577,
+      "releaseDate": "2016-12-15"
+    },
+    {
+      "title": "Neutron",
+      "artist": "Skizologic, Radical Distortion"
+    },
+    {
+      "title": "Lokayatikas",
+      "artist": "Asia 2001"
+    },
+    {
+      "title": "Boom Eternity",
+      "artist": "Skizologic, Tsuyoshi Suzuki"
+    },
+    {
+      "title": "The Eternal Now",
+      "artist": "Cosmosis"
+    },
+    {
+      "title": "Trip Advisor",
+      "artist": "Indoor"
+    },
+    {
+      "title": "Time Simulation (InnerSelf & Zopmanika RMX)",
+      "artist": "Talamasca"
+    },
+    {
+      "title": "The First Trip",
+      "artist": "Space Tribe"
+    },
+    {
+      "title": "All Funked Up",
+      "artist": "Cosmosis, Colorshape"
+    },
+    {
+      "title": "Boundless - Funky Gong Remix 2014",
+      "artist": "Prana"
+    },
+    {
+      "title": "Seville (Live Edit)",
+      "artist": "Power Source"
+    },
+    {
+      "title": "Acid Goa Madness In Moscow",
+      "artist": "Atlantis"
+    },
+    {
+      "title": "Dirty Trick",
+      "artist": "Man With No Name"
+    },
+    {
+      "title": "God ? (unmasterd)",
+      "artist": "Karnaf"
+    },
+    {
+      "title": "Feeling Very Weird (Astral Projection Remix Featuring Raja Ram)",
+      "artist": "The Infinity Project"
+    },
+    {
+      "title": "Alien Pets",
+      "artist": "Prana"
+    },
+    {
+      "title": "Memory Modulator (Modulated Mix)",
+      "artist": "Neogenia",
+      "label": "Timewarp Records"
+    },
+    {
+      "title": "Liquid Troll",
+      "artist": "Chakra"
+    },
+    {
+      "title": "Cognitive Dissidents",
+      "artist": "Quirk"
+    },
+    {
+      "title": "Hell Razor Puzzle (1996)",
+      "artist": "Chakra"
+    },
+    {
+      "title": "The Second Room",
+      "artist": "X-Dream"
+    },
+    {
+      "title": "Lepton Head (Deedrah Remix 1997)",
+      "artist": "Shakta "
+    },
+    {
+      "title": "Magical Sunshine",
+      "artist": "ShOnKa"
+    },
+    {
+      "title": "Beyond Galaxies",
+      "artist": "Zed Reactor"
+    },
+    {
+      "title": "Tyca Tyca",
+      "artist": "Proxeeus"
+    },
+    {
+      "title": "Deep Trouble In Outer Space",
+      "artist": "Man With No Name"
+    }
+  ]
+}
