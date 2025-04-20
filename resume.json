@@ -129,7 +129,7 @@
     {
       "name": "PHP",
       "level": "Advanced",
-      "keywords": []
+      "keywords": ["Laminas"]
     },
     {
       "name": "HTML",
@@ -144,7 +144,7 @@
         "SASS",
         "Less",
         "PostCSS",
-        "CSSModules",
+        "CSS Modules",
         "TailwindCSS",
         "Stylelint"
       ]
@@ -155,8 +155,8 @@
       "keywords": [
         "ES6",
         "TypeScript",
-        "Node",
-        "Bun",
+        "Node.js",
+        "PNPM",
         "Prettier",
         "ESLint",
         "Vite",
