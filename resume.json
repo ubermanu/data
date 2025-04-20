@@ -197,6 +197,11 @@
       "keywords": ["Next.js", "Radix UI"]
     },
     {
+      "name": "Web Components",
+      "level": "Advanced",
+      "keywords": ["LitElement"]
+    },
+    {
       "name": "API",
       "level": "Advanced",
       "keywords": ["REST", "GraphQL"]
@@ -205,6 +210,11 @@
       "name": "Git",
       "level": "Advanced",
       "keywords": ["CI", "GitHub", "BitBucket", "GitFlow", "GitLab"]
+    },
+    {
+      "name": "Docker",
+      "level": "Intermediate",
+      "keywords": ["DDEV"]
     }
   ],
   "languages": [
