@@ -139,17 +139,37 @@
     {
       "name": "CSS",
       "level": "Advanced",
-      "keywords": ["CSS3", "SASS", "LESS", "PostCSS"]
+      "keywords": [
+        "CSS3",
+        "SASS",
+        "Less",
+        "PostCSS",
+        "CSSModules",
+        "TailwindCSS",
+        "Stylelint"
+      ]
     },
     {
       "name": "JS",
       "level": "Advanced",
-      "keywords": ["ES6", "Typescript", "Node", "Bun"]
+      "keywords": [
+        "ES6",
+        "TypeScript",
+        "Node",
+        "Bun",
+        "Prettier",
+        "ESLint",
+        "Vite",
+        "Vitest",
+        "Storybook",
+        "Playwright",
+        "Puppeteer"
+      ]
     },
     {
       "name": "Magento 2",
       "level": "Advanced",
-      "keywords": []
+      "keywords": ["jQuery", "Knockout.js", "PageBuilder"]
     },
     {
       "name": "SQL",
@@ -168,13 +188,23 @@
     },
     {
       "name": "Svelte",
-      "level": "Intermediate",
+      "level": "Advanced",
       "keywords": ["SvelteKit"]
+    },
+    {
+      "name": "React",
+      "level": "Intermediate",
+      "keywords": ["Next.js", "Radix UI"]
+    },
+    {
+      "name": "API",
+      "level": "Advanced",
+      "keywords": ["REST", "GraphQL"]
     },
     {
       "name": "Git",
       "level": "Advanced",
-      "keywords": ["CI", "Github", "Bitbucket", "Gitflow"]
+      "keywords": ["CI", "GitHub", "BitBucket", "GitFlow", "GitLab"]
     }
   ],
   "languages": [
